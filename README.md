@@ -23,7 +23,7 @@
      * Charles Casper Stockham got 23.0% of the total votes(85,213 votes),Diana DeGette got 73.8% of the total votes (272,892 votes)and Raymon Anthony Doane got 
        3.1% of the total votes (11,606 votes)
      * Diana DeGette won the congressional election by getting 73.8% of the total votes cast (272,892 votes).
-
+     "C:\Users\dammy\git\Election-Analysis\analysis\election_analysis.txt"
 ##### Election Audit Summary
      *This analysis tool could be used for any election with minimal modifications :
      *i. Changing the row index depending on the value you are intrested in analysing for example county vote count row[1] and for cndidate vote count use row[2]
